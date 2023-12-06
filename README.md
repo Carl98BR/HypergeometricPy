@@ -1,8 +1,4 @@
 
-## Descrição da Função \(H\) de Fox
-
-### Português
-
 Este repositório contém uma implementação simples da função HH de Fox multivariada em Python. A função HH de Fox é uma função matemática multivariada que possui aplicações em diversas áreas, como teoria das probabilidades, processamento de sinais e análise estatística.
 
 This repository contains a simple implementation of the multivariate Fox \(H\) function in Python. The Fox \(H\) function is a multivariate mathematical function with applications in various fields such as probability theory, signal processing, and statistical analysis.
