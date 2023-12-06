@@ -1,1 +1,1 @@
-![Equação em LaTeX](./CodeCogsEqn.svg)
+![Equação em LaTeX](./CodeCogsEqn.png)
